@@ -1,0 +1,12 @@
+version: '3'
+
+services:
+  vvveb:
+    build: .
+    ports:
+      - 8080:80
+    volumes:
+      - type: bind
+        source: C:\Users\makot\repos\docker-php-node
+        target: /var/www/html
+    tty: true
