@@ -88,6 +88,8 @@ You can use a text editor like Poedit to edit translation files and then submit 
 
 ## コンポーネント
 
+ - Bootstrap5 のコンポーネントが９つ組み込まれている
+
  - 自分で定義して組み込むよう
    - [Components](https://github.com/givanz/VvvebJs/wiki/Components)
 
